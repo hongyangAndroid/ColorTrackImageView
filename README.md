@@ -5,9 +5,9 @@
 
 ## 简单使用
 
-![Sample Screenshots]("images/aixin2.gif")
+![Sample Screenshots](images/aixin2.gif)
 
-![Sample Screenshots]("images/love2.gif")
+![Sample Screenshots](images/love2.gif)
 ## 结合ViewPager
 TODO
 
