@@ -1,0 +1,21 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:zhy="http://schemas.android.com/apk/res/com.zhy.sample.colorTrackImageView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <com.zhy.view.ColorTrackImageView
+        android:id="@+id/id_colorview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        zhy:direction="left"
+        android:layout_gravity="center_horizontal"
+        zhy:icon="@drawable/love"
+        zhy:progress="0.5"
+        zhy:scale="1.5"
+        zhy:scale_type="fit_center"
+        zhy:text_change_color="#d91ac8"
+        zhy:text_origin_color="#2db7ea" />
+
+</FrameLayout>
